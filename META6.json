@@ -1,0 +1,18 @@
+{
+  "auth": "zef:khalidelborai",
+  "build-depends": [
+  ],
+  "depends": [
+    "Cro::HTTP"
+  ],
+  "description": "A brand new and very nice module",
+  "name": "Taxii--Client",
+  "provides": {
+    "Taxii::Client": "lib/Taxii/Client.rakumod"
+  },
+  "resources": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
